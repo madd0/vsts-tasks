@@ -1,7 +1,7 @@
 {
   "loc.friendlyName": "Install an iOS provisioning profile",
   "loc.helpMarkDown": "",
-  "loc.description": "Install an iOS provisioning profile requried to build an iOS app on a Mac build server",
+  "loc.description": "Install an iOS provisioning profile required to build an iOS app on a Mac build server",
   "loc.instanceNameFormat": "Install an iOS provisioning profile",
   "loc.input.label.provProfileSource": "Provisioning Profile Source Location",
   "loc.input.help.provProfileSource": "Provisioning profile can be installed from `Secure File` uploaded to the server or a file in the source repository or a file on the build server.",
